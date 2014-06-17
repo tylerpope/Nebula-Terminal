@@ -6,7 +6,7 @@ I have modified the colors and font a bit.
 I use this theme daily so I thought I would share.
 
 #How to install
-1. Clone the repository `git clone git:github.com/tylerpope/Nebula-Terminal.git`
+1. Clone the repository `git clone https://github.com/tylerpope/Nebula-Terminal.git`
 2. Open Nebula.terminal
 
 You can modify the settings in the terminal prefrences to your liking.
